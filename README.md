@@ -6,7 +6,6 @@ It allows fast billing and printing of A4 invoices.
 - Simple invoice layout
 - Auto total calculation
 - Print-ready A4 format
-- Offline usage
 
 ## Tech Stack
 - HTML
