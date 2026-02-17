@@ -55,3 +55,43 @@ The system assumes:
 
 The system may depend on:
 - Browser storage or backend database for storing invoice data
+
+## 3. Functional Requirements
+
+### 3.1 User Authentication
+- The system shall allow users to log in using valid credentials.
+- The system shall allow users to log out securely.
+- The system shall restrict access to invoice features to authenticated users.
+
+### 3.2 Invoice Creation
+- The system shall allow users to create a new invoice.
+- The system shall allow users to enter company details.
+- The system shall allow users to enter client details.
+- The system shall allow users to add multiple invoice items.
+- The system shall allow users to enter quantity and price for each item.
+- The system shall automatically calculate item totals.
+
+### 3.3 Tax and GST Management
+- The system shall allow users to enter a GST number.
+- The system shall calculate GST based on the provided values.
+- The system shall display subtotal, tax amount, and grand total.
+
+### 3.4 Invoice Management
+- The system shall store generated invoices.
+- The system shall display a list of previously generated invoices.
+- The system shall allow users to view invoice details.
+- The system shall allow users to edit invoice information before finalization.
+
+### 3.5 Invoice Download and Export
+- The system shall allow users to download invoices.
+- The system shall support exporting invoice data in CSV format.
+- The system shall generate invoices in a readable and professional format.
+
+### 3.6 Invoice Statistics
+- The system shall display statistics related to previously generated invoices.
+- The system shall show total number of invoices generated.
+- The system shall show total invoice amount over a selected period.
+
+### 3.7 Data Persistence
+- The system shall store invoice data securely.
+- The system shall retrieve stored invoice data when requested by the user.
