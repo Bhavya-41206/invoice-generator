@@ -156,3 +156,10 @@ The system may depend on:
 ### 5.4 Communication Interfaces
 - The system shall use standard HTTP/HTTPS protocols for communication.
 - The system shall require an active internet connection for full functionality.
+
+## 6. Future Enhancements
+- PDF export functionality
+- Emailing invoices directly to clients
+- Automatic GST validation
+- Dashboard with advanced analytics
+- Multi-user role management
