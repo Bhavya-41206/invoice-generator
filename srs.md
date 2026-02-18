@@ -133,3 +133,26 @@ The system may depend on:
 ### 4.8 Portability Requirements
 - The system shall run on multiple modern web browsers.
 - The system shall support both desktop and mobile platforms.
+
+## 5. External Interface Requirements
+
+### 5.1 User Interface
+- The system shall provide a responsive web-based user interface.
+- The system shall allow users to input company details, client details, GST number, and invoice items through structured forms.
+- The system shall display calculated totals, taxes, and invoice summaries clearly.
+- The system shall provide buttons for invoice creation, editing, downloading, and exporting.
+- The system shall maintain a consistent layout across all pages.
+
+### 5.2 Hardware Interfaces
+- The system shall operate on standard desktop and laptop computers.
+- The system shall support mobile devices such as smartphones and tablets.
+- No specialized hardware is required to use the system.
+
+### 5.3 Software Interfaces
+- The system shall run on modern web browsers such as Google Chrome, Mozilla Firefox, and Microsoft Edge.
+- The system may use browser-based storage or backend database systems for data persistence.
+- The system may support file export functionality (e.g., CSV download).
+
+### 5.4 Communication Interfaces
+- The system shall use standard HTTP/HTTPS protocols for communication.
+- The system shall require an active internet connection for full functionality.
