@@ -95,3 +95,41 @@ The system may depend on:
 ### 3.7 Data Persistence
 - The system shall store invoice data securely.
 - The system shall retrieve stored invoice data when requested by the user.
+
+## 4. Non-Functional Requirements
+
+### 4.1 Performance Requirements
+- The system shall respond to user actions within an acceptable time.
+- The system shall support smooth invoice creation without noticeable delays.
+- The system shall handle multiple invoice operations efficiently.
+
+### 4.2 Security Requirements
+- The system shall restrict access to authorized users only.
+- The system shall protect sensitive invoice and business data.
+- The system shall prevent unauthorized modification of invoice data.
+
+### 4.3 Usability Requirements
+- The system shall provide a user-friendly and intuitive interface.
+- The system shall be easy to navigate for users with basic technical knowledge.
+- The system shall minimize user input errors during invoice creation.
+
+### 4.4 Reliability Requirements
+- The system shall ensure accuracy in invoice calculations.
+- The system shall maintain data consistency during invoice storage and retrieval.
+- The system shall function correctly under normal operating conditions.
+
+### 4.5 Availability Requirements
+- The system shall be available whenever the user has internet access.
+- The system shall maintain consistent functionality across supported browsers.
+
+### 4.6 Scalability Requirements
+- The system shall support an increase in the number of invoices without performance degradation.
+- The system shall allow future feature expansion.
+
+### 4.7 Maintainability Requirements
+- The system shall be designed using modular components.
+- The system shall allow easy updates and bug fixes.
+
+### 4.8 Portability Requirements
+- The system shall run on multiple modern web browsers.
+- The system shall support both desktop and mobile platforms.
