@@ -1,18 +1,34 @@
-# DWARAKAMAI
-A simple invoice generation software designed for a local xerox shop.
-It allows fast billing and printing of A4 invoices.
+# 🧾 Invoice Generator - Dwarakamai
 
-## Features
-- Simple invoice layout
-- Auto total calculation
-- Print-ready A4 format
+A web-based Invoice Generator that allows users to create, manage, and export invoices efficiently.
 
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
+## 🚀 Features
+- Secure login and logout
+- Create professional invoices
+- Add company and client details
+- GST and tax calculation
+- Download invoices
+- Export invoice data as CSV
+- View invoice history and statistics
 
-## Future Enhancements
-- GST support
-- Invoice history
-- Daily sales report
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: (Add if applicable)
+- Storage: Browser Storage / Database
+
+## 📄 Documentation
+- Software Requirements Specification: [SRS.md](./SRS.md)
+
+## 📌 Usage
+1. Login to the system
+2. Create a new invoice
+3. Add items and GST details
+4. Download or export the invoice
+
+## 🔮 Future Enhancements
+- PDF export
+- Email invoices
+- Advanced analytics dashboard
+
+## 👨‍💻 Author
+Bhavya Sri
