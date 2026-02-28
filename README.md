@@ -17,7 +17,7 @@ A web-based Invoice Generator that allows users to create, manage, and export in
 - Storage: Browser Storage / Database
 
 ## 📄 Documentation
-- Software Requirements Specification: [srs.md](./srs.md)
+- Software Requirements Specification: [SRS.md](./SRS.md)
 
 ## 📌 Usage
 1. Login to the system
