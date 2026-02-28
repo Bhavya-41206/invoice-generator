@@ -158,8 +158,11 @@ The system may depend on:
 - The system shall require an active internet connection for full functionality.
 
 ## 6. Future Enhancements
-- PDF export functionality
+- PDF export functionality for invoices
 - Emailing invoices directly to clients
 - Automatic GST validation
-- Dashboard with advanced analytics
-- Multi-user role management
+- Advanced dashboard with analytics and reports
+- Multi-user support with role-based access
+
+## 7. Conclusion
+This SRS document defines the functional and non-functional requirements of the Invoice Generator system. It provides a clear understanding of the system features, constraints, and expected behavior, serving as a reference for development and evaluation.
