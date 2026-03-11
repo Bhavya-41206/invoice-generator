@@ -13,7 +13,7 @@ A web-based Invoice Generator that allows users to create, manage, and export in
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
-- Backend: (Add if applicable)
+- Backend: firebase
 - Storage: Browser Storage / Database
 
 ## 📄 Documentation
