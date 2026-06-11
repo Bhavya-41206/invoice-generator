@@ -91,21 +91,26 @@ This app lets you:
 - 🔍 **Search & filter** – By invoice number, customer, or date range.
 
 ---
+## 📁 Project Structure
 
-## 📁 **Project Structure**
-
+```text
 invoice-system/
-├── index.html # Login page
-├── dashboard.html # Main dashboard
-├── new-record.html # Invoice creation
-├── view-records.html # View & manage invoices
-├── statistics.html # Charts & analytics
-├── style.css # Global styles
-├── invoice-style.css # Invoice print styles
-├── script.js # Firebase & auth logic
-├── invoice-script.js # Invoice form logic
-├── firebase-config.js # Firebase configuration
-└── images/ # Screenshots
+│
+├── index.html              # Login Page
+├── dashboard.html          # Main Dashboard
+├── new-record.html         # Create Invoice
+├── view-records.html       # View & Manage Invoices
+├── statistics.html         # Charts & Analytics
+│
+├── style.css               # Global Styles
+├── invoice-style.css       # Invoice Print Styles
+│
+├── script.js               # Firebase & Authentication Logic
+├── invoice-script.js       # Invoice Form Logic
+├── firebase-config.js      # Firebase Configuration
+│
+└── images/                 # Screenshots & Assets
+```
 ---
 
 ## 🧪 **Test It Yourself**
