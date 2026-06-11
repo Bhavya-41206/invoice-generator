@@ -93,24 +93,29 @@ This app lets you:
 ---
 ## 📁 Project Structure
 
+<details>
+<summary>Click to expand</summary>
+
 ```text
 invoice-system/
 │
-├── index.html              # Login Page
-├── dashboard.html          # Main Dashboard
-├── new-record.html         # Create Invoice
-├── view-records.html       # View & Manage Invoices
-├── statistics.html         # Charts & Analytics
+├── 📄 index.html              Login Page
+├── 📄 dashboard.html          Main Dashboard
+├── 📄 new-record.html         Create Invoice
+├── 📄 view-records.html       View & Manage Invoices
+├── 📄 statistics.html         Charts & Analytics
 │
-├── style.css               # Global Styles
-├── invoice-style.css       # Invoice Print Styles
+├── 🎨 style.css               Global Styles
+├── 🎨 invoice-style.css       Invoice Print Styles
 │
-├── script.js               # Firebase & Authentication Logic
-├── invoice-script.js       # Invoice Form Logic
-├── firebase-config.js      # Firebase Configuration
+├── ⚙️ script.js               Firebase & Authentication Logic
+├── ⚙️ invoice-script.js       Invoice Form Logic
+├── ⚙️ firebase-config.js      Firebase Configuration
 │
-└── images/                 # Screenshots & Assets
+└── 🖼️ images/                Screenshots & Assets
 ```
+
+</details>
 ---
 
 ## 🧪 **Test It Yourself**
