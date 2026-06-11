@@ -92,6 +92,20 @@ This app lets you:
 
 ---
 
+## 📁 **Project Structure**
+
+invoice-system/
+├── index.html # Login page
+├── dashboard.html # Main dashboard
+├── new-record.html # Invoice creation
+├── view-records.html # View & manage invoices
+├── statistics.html # Charts & analytics
+├── style.css # Global styles
+├── invoice-style.css # Invoice print styles
+├── script.js # Firebase & auth logic
+├── invoice-script.js # Invoice form logic
+├── firebase-config.js # Firebase configuration
+└── images/ # Screenshots
 ---
 
 ## 🧪 **Test It Yourself**
@@ -130,6 +144,3 @@ MIT © [DWARAKAMAI XEROX](https://dwarakamai-invoice.web.app)
 
 ### 💬 *“Finally, an invoice system that doesn't make me want to tear my hair out.”*  
 — *Satisfied user (probably)*
-
-
-## 📁 **Project Structure**
